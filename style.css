@@ -9,7 +9,6 @@ article {
 
 
 .section-header {
-	font-style: bold;
 	color: #FF0000;
 	border-bottom: 4px solid #B3DDF2;
 	border-top: 4px solid #B3DDF2;
@@ -57,5 +56,3 @@ a:visited {
   	width: 100%;
   }
 }
-
-
